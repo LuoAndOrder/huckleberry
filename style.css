@@ -30,7 +30,7 @@ header {
   padding-top: 48px;
   padding-bottom: 48px;
   max-width: 400px;
-  padding: 48px 16px;
+  padding: 48px 24px;
 }
 
 .title {
@@ -51,7 +51,7 @@ main {
 
 .card {
   background-color: white;
-  padding: 0px 16px;
+  padding: 0px 24px;
   padding-bottom: 8px;
   border-top: 8px solid white;
 }
